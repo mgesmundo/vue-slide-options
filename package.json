@@ -1,0 +1,32 @@
+{
+  "name": "vue-slide-options",
+  "version": "1.0.0",
+  "description": "slide for more options just like wechat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincentmrlau/vue-slide-options.git"
+  },
+  "keywords": [
+    "vue",
+    "slide",
+    "wechat",
+    "滑动选项",
+    "微信滑动",
+    "slide delete",
+    "滑动删除"
+  ],
+  "author": "vincent lau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincentmrlau/vue-slide-options/issues"
+  },
+  "homepage": "https://github.com/vincentmrlau/vue-slide-options#readme",
+  "peerDependencies": {
+    "vue-loader": "*",
+    "webpack": "*"
+  }
+}

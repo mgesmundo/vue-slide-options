@@ -9,7 +9,7 @@
 
 ### BASIC USAGE
 
-```javaScript
+```HTML
 <vue-slide-options>
     <div slot="cover">an item 一个列表</div>
     <div slot="options">an options 一个选项</div>

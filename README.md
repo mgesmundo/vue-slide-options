@@ -27,5 +27,5 @@
 
 |props|needed|type|default|description|
 |:---|:---|:---|:---|:---|
-|threshold|no|Number|0.5|0.5 means when touch move distance >= 0.5* options.width, when finger leave it will auto-slide to show all options, is < ,auto-slide to hide them all|
+|threshold|no|Number|0.5|0.5 means when touch move distance >= 0.5* options.width, when finger leave it will auto-slide to show all options, IF < ,auto-slide to hide them all|
 |speed|no|Number|0.2|0.2 means finish auto-slide in 0.2s|
